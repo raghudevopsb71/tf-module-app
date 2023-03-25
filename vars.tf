@@ -11,6 +11,6 @@ variable "bastion_cidr" {}
 variable "allow_app_to" {}
 variable "port" {}
 variable "dns_domain" {}
-variable "alb" {}
+variable "alb_dbs_name" {}
 
 
